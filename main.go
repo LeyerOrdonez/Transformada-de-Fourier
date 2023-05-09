@@ -174,5 +174,5 @@ func main() {
 
 	// a = complex(3, imag(a))
 	fmt.Println(arreglo2,"hecho")
-	fmt.Println(arreglo,"inicial")
+	fmt.Println(arreglo,"inicial ")
 }
